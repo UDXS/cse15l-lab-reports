@@ -47,4 +47,5 @@ int main() {
 | Total |         |     | $75.30   |
 
 
+![Screenshot](screenshot.jpg)	
 ![Photo](https://scx2.b-cdn.net/gfx/news/2020/redpandasmay.jpg)	
