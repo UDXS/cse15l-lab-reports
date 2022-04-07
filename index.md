@@ -3,7 +3,7 @@
 
 [Lab report](lab2-report.md)
 
-[More Infor](https://udxs.me/cse15l-lab-reports/more_info)
+[More Info](https://udxs.me/cse15l-lab-reports/more_info)
 
 This is a proper paragraph of text.
 Full of content. And here is a list:
