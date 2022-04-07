@@ -1,6 +1,9 @@
 # Hello World!
 ## Welcome to this website
 
+[Lab report](lab2-report.md)
+
+[More Infor](https://udxs.me/cse15l-lab-reports/more_info)
 
 This is a proper paragraph of text.
 Full of content. And here is a list:
@@ -37,7 +40,6 @@ int main() {
 2. That
 3. and Such
 
-[Important link](https://udxs.me/cse15l-lab-reports/more_info)
 
 
 | This  | is      | a   | table    |
