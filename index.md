@@ -1,8 +1,6 @@
 # Hello World!
 ## Welcome to this website
 
----
-*Horizontal rule* **above** 
 
 This is a proper paragraph of text.
 Full of content. And here is a list:
@@ -26,8 +24,11 @@ And remember to bake a cake with:
 int main() {
     // A big code block with syntax highlighting.
 }
-
 ```
+
+
+---
+*Horizontal rule* **above** 
 
 > An important quote
 > - Important Guy, 1920
