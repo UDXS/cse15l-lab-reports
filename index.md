@@ -1,7 +1,11 @@
 # Hello World!
+D. Markarian
+
 ## Welcome to this website
 
-[Lab report](lab2-report.md)
+[Lab report 1: UNIX 101](lab2-report.md)
+
+[Lab report 2: Bug fixing](wk4-report.md)
 
 [More Info](https://udxs.me/cse15l-lab-reports/more_info)
 
