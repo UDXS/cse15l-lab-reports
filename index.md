@@ -7,7 +7,7 @@ D. Markarian
 
 [Lab report 2: Bug fixing](wk4-report.md)
 
-[Lab report 3: Bug fixing](lab3-report.md)
+[Lab report 3: Streamlining](lab3-report.md)
 
 [More Info](https://udxs.me/cse15l-lab-reports/more_info)
 
