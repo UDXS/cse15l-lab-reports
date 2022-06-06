@@ -11,6 +11,8 @@ D. Markarian
 
 [Lab report 4: Code Review](lab4-report.md)
 
+[Lab report 5: Test Incoherencies](lab5-report.md)
+
 [More Info](https://udxs.me/cse15l-lab-reports/more_info)
 
 This is a proper paragraph of text.
